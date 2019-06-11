@@ -4,6 +4,7 @@ Shutters is an operating system based on the linux kernel that can use any type 
 configurations.
 
 ***June 11th, 2019***
+
 Shutters multi-distro package installer (for lack of a better name)
 Working on configuring apt-get on CentOS 7 (x86_64)
 
